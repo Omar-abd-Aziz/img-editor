@@ -1,2 +1,2 @@
 # img-editor
-https://omar-abd-aziz.github.io/Notes/
+https://omar-abd-aziz.github.io/img-editor/
